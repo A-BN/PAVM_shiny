@@ -1,0 +1,10 @@
+name: 2018_pavm_shiny
+title:
+username:
+account: a-bn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 558248
+bundleId: 1690495
+url: https://a-bn.shinyapps.io/2018_pavm_shiny/
+when: 1541707655.34163
